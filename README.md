@@ -1,3 +1,4 @@
+<h1> PROJECTS </h1>
 Quiz App
 
 -   Design: https://uidesigndaily.com/posts/sketch-questionnaire-choice-submit-day-924
@@ -25,11 +26,12 @@ GitHub Profiles App
 -   search for user
 -   get and show data
 
-<h1> NEXT PROJECTS </h1>
-<br/>
-<hr>
+<h2> NEXT PROJECTS </h3>
 Countdown Timer
 
 -   Design: https://uidesigndaily.com/posts/sketch-countdown-timer-day-876
 -   future date
 -   timer
+Drawing app
+Map app
+Finance App
