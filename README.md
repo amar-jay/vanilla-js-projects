@@ -11,7 +11,7 @@ Quiz App
 -   select answer
 -   at the end show score
 
-Recipe App
+Recipe App(**Not Done**)
 
 -   Design: https://uidesigndaily.com/posts/sketch-recipe-app-food-mobile-day-615
 -   recipe info on click
