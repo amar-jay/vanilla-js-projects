@@ -35,3 +35,6 @@ Countdown Timer
 Drawing app
 Map app
 Finance App
+
+
+Thanks to <b> Florin Pop</b>
