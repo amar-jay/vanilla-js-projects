@@ -25,7 +25,9 @@ GitHub Profiles App
 -   search for user
 -   get and show data
 
-<strong> NEXT PROJECTS </strong>
+<h1> NEXT PROJECTS </h1>
+<br/>
+<hr>
 Countdown Timer
 
 -   Design: https://uidesigndaily.com/posts/sketch-countdown-timer-day-876
