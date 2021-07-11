@@ -1,9 +1,3 @@
-Countdown Timer
-
--   Design: https://uidesigndaily.com/posts/sketch-countdown-timer-day-876
--   future date
--   timer
-
 Quiz App
 
 -   Design: https://uidesigndaily.com/posts/sketch-questionnaire-choice-submit-day-924
@@ -30,3 +24,10 @@ GitHub Profiles App
 -   Design: https://uidesigndaily.com/posts/photoshop-profile-card-user-day-286
 -   search for user
 -   get and show data
+
+<strong> NEXT PROJECTS </strong>
+Countdown Timer
+
+-   Design: https://uidesigndaily.com/posts/sketch-countdown-timer-day-876
+-   future date
+-   timer
